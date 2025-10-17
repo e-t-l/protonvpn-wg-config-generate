@@ -1,6 +1,6 @@
 module protonvpn-wg-config-generate
 
-go 1.25.1
+go 1.25
 
 require (
 	github.com/ProtonMail/go-srp v0.0.7
