@@ -23,6 +23,4 @@ jobs:
     - name: Upload build reports
       uses: actions/upload-artifact@v4
       if: always()
-      with:
-        name: build-reports
-        path: build/reports/
+
